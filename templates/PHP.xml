@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="evd" value="echo '&lt;pre&gt;'; var_dump($END$); die;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="sout" value="var_dump($END$); die;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
