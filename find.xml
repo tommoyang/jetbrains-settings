@@ -35,8 +35,8 @@
       <mask>*ph</mask>
       <mask>*htm</mask>
       <mask>*php</mask>
-      <mask>*h</mask>
       <mask>*ht</mask>
+      <mask>*h</mask>
       <mask>*html</mask>
       <mask>*</mask>
     </recentFileMasks>
