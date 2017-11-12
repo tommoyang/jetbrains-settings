@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>manage_*.</mask>
       <mask>manage_*</mask>
@@ -21,16 +21,10 @@
       <mask>*.htm l</mask>
       <mask>*.htm</mask>
       <mask>*.htm</mask>
-      <mask>*.p</mask>
       <mask>di</mask>
       <mask>d</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*hjt</mask>
       <mask>*hjtm</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*htm</mask>
@@ -39,6 +33,12 @@
       <mask>*h</mask>
       <mask>*html</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
