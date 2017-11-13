@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="ReopenClosedTab">
