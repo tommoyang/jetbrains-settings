@@ -9,13 +9,10 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>manage_*</mask>
-      <mask>manage_</mask>
       <mask>manage</mask>
       <mask>manag</mask>
       <mask>o</mask>
       <mask>p</mask>
-      <mask>*hp</mask>
       <mask>*.ht</mask>
       <mask>*.htm l</mask>
       <mask>*.htm</mask>
@@ -24,20 +21,23 @@
       <mask>d</mask>
       <mask>*hjt</mask>
       <mask>*hjtm</mask>
-      <mask>*p</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.</mask>
-      <mask>*html</mask>
       <mask>*htm</mask>
-      <mask>*ht</mask>
       <mask>*h</mask>
+      <mask>*ht</mask>
+      <mask>*html</mask>
+      <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*php</mask>
-      <mask>*=</mask>
+      <mask>*hhp</mask>
+      <mask>*hthp</mask>
+      <mask>*htmlhp</mask>
+      <mask>*hp</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
