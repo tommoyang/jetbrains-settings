@@ -28,16 +28,16 @@
       <mask>*.</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
-      <mask>*ph</mask>
       <mask>*hhp</mask>
       <mask>*hthp</mask>
       <mask>*htmlhp</mask>
       <mask>*hp</mask>
       <mask>*p</mask>
       <mask>*.php</mask>
-      <mask>*php</mask>
       <mask>*h</mask>
       <mask>*html</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
