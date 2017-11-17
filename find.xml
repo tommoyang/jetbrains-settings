@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
       <mask>manage</mask>
       <mask>manag</mask>
@@ -32,13 +32,13 @@
       <mask>*hthp</mask>
       <mask>*htmlhp</mask>
       <mask>*hp</mask>
-      <mask>*p</mask>
       <mask>*.php</mask>
       <mask>*h</mask>
       <mask>*html</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*php</mask>
-      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
