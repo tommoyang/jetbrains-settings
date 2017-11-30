@@ -7,17 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>*.htm l</mask>
-      <mask>*.htm</mask>
-      <mask>*.htm</mask>
-      <mask>di</mask>
-      <mask>d</mask>
-      <mask>*hjt</mask>
-      <mask>*hjtm</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.</mask>
@@ -33,12 +24,21 @@
       <mask>*php</mask>
       <mask>*pp</mask>
       <mask>*p</mask>
+      <mask>*(html</mask>
+      <mask>*(html|</mask>
+      <mask>*(html|j</mask>
+      <mask>*(html|js)</mask>
+      <mask>*(html|js</mask>
+      <mask>*(ht</mask>
+      <mask>*(h</mask>
+      <mask>*(</mask>
       <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
       <mask>*h</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
