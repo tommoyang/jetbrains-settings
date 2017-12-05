@@ -9,26 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>* php</mask>
-      <mask>* ph</mask>
-      <mask>* p</mask>
-      <mask>*ph</mask>
-      <mask>*php</mask>
-      <mask>*pp</mask>
-      <mask>*(html</mask>
-      <mask>*(html|</mask>
-      <mask>*(html|j</mask>
-      <mask>*(html|js)</mask>
-      <mask>*(html|js</mask>
-      <mask>*(ht</mask>
-      <mask>*(h</mask>
-      <mask>*(</mask>
-      <mask>*html</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
-      <mask>*js</mask>
       <mask>*j</mask>
       <mask>*p</mask>
       <mask>*prov</mask>
@@ -37,6 +17,26 @@
       <mask>*provider.</mask>
       <mask>*provider.ph</mask>
       <mask>*provider.php</mask>
+      <mask>*f</mask>
+      <mask>*fubnc</mask>
+      <mask>*fubnct</mask>
+      <mask>*fu</mask>
+      <mask>*func</mask>
+      <mask>*function</mask>
+      <mask>*functional</mask>
+      <mask>*functionalT</mask>
+      <mask>*functionalTe</mask>
+      <mask>*functionalTes</mask>
+      <mask>*functionalTest</mask>
+      <mask>*functionalTest.</mask>
+      <mask>*functionalTest.p</mask>
+      <mask>*functionalTest.ph</mask>
+      <mask>*functionalTest.php</mask>
+      <mask>*te</mask>
+      <mask>*test</mask>
+      <mask>*test.</mask>
+      <mask>*test.php</mask>
+      <mask>*test.ph</mask>
       <mask>*</mask>
       <mask>*</mask>
     </recentFileMasks>
