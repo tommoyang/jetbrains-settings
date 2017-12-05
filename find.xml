@@ -7,10 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*j</mask>
-      <mask>*p</mask>
       <mask>*prov</mask>
       <mask>*provid</mask>
       <mask>*provider</mask>
@@ -39,6 +37,8 @@
       <mask>*test.ph</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
