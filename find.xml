@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
       <mask>*functional</mask>
       <mask>*functionalT</mask>
@@ -25,20 +25,20 @@
       <mask>*test.</mask>
       <mask>*test.ph</mask>
       <mask>*test.php</mask>
-      <mask>*p</mask>
       <mask>*(?</mask>
       <mask>*(?!con</mask>
       <mask>*(?!cont</mask>
       <mask>*(?!</mask>
       <mask>*(</mask>
-      <mask>*ph</mask>
-      <mask>*php</mask>
       <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
       <mask>*h</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
