@@ -7,11 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.</mask>
-      <mask>*hhp</mask>
       <mask>*hthp</mask>
       <mask>*htmlhp</mask>
       <mask>*hp</mask>
@@ -39,6 +36,9 @@
       <mask>*j</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
     </recentFileMasks>
   </component>
 </application>
