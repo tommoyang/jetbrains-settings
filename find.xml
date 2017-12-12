@@ -7,17 +7,9 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*trait.php" />
     <recentFileMasks>
-      <mask>*functionalTe</mask>
-      <mask>*functionalTes</mask>
-      <mask>*functionalTest</mask>
-      <mask>*functionalTest.</mask>
-      <mask>*functionalTest.p</mask>
-      <mask>*functionalTest.ph</mask>
-      <mask>*functionalTest.php</mask>
       <mask>*te</mask>
-      <mask>*t</mask>
       <mask>*true</mask>
       <mask>*test</mask>
       <mask>*test.</mask>
@@ -39,6 +31,14 @@
       <mask>*h</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*t</mask>
+      <mask>*tr</mask>
+      <mask>*tra</mask>
+      <mask>*trai</mask>
+      <mask>*trait.</mask>
+      <mask>*trait.p</mask>
+      <mask>*trait.ph</mask>
+      <mask>*trait.php</mask>
     </recentFileMasks>
   </component>
 </application>
