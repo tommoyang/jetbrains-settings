@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*trait.php" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*te</mask>
       <mask>*true</mask>
@@ -29,8 +29,6 @@
       <mask>*htm</mask>
       <mask>*ht</mask>
       <mask>*h</mask>
-      <mask>*</mask>
-      <mask>*</mask>
       <mask>*t</mask>
       <mask>*tr</mask>
       <mask>*tra</mask>
@@ -39,6 +37,8 @@
       <mask>*trait.p</mask>
       <mask>*trait.ph</mask>
       <mask>*trait.php</mask>
+      <mask>*</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
