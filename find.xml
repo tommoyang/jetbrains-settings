@@ -9,23 +9,9 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*te</mask>
-      <mask>*true</mask>
-      <mask>*test</mask>
-      <mask>*test.</mask>
-      <mask>*test.ph</mask>
-      <mask>*test.php</mask>
-      <mask>*(?</mask>
-      <mask>*(?!con</mask>
-      <mask>*(?!cont</mask>
       <mask>*(?!</mask>
-      <mask>*(</mask>
       <mask>*gt</mask>
       <mask>*g</mask>
-      <mask>*html</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
       <mask>*t</mask>
       <mask>*tr</mask>
       <mask>*tra</mask>
@@ -37,6 +23,20 @@
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*(h</mask>
+      <mask>*(htom</mask>
+      <mask>*(hto</mask>
+      <mask>*(ht</mask>
+      <mask>*(html</mask>
+      <mask>*(html|</mask>
+      <mask>*(html|j</mask>
+      <mask>*(html|js)</mask>
+      <mask>*(html|js</mask>
+      <mask>*(</mask>
       <mask>*</mask>
       <mask>*</mask>
     </recentFileMasks>
