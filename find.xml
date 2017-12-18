@@ -7,11 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>* ph</mask>
-      <mask>* p</mask>
-      <mask>*ph</mask>
       <mask>*php</mask>
       <mask>*pp</mask>
       <mask>*p</mask>
@@ -34,11 +31,14 @@
       <mask>*.t</mask>
       <mask>*.tf</mask>
       <mask>*.ym</mask>
-      <mask>*</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>yml</mask>
+      <mask>ym</mask>
+      <mask>y</mask>
+      <mask>*</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
