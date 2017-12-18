@@ -7,10 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*tf" />
     <recentFileMasks>
-      <mask>*php</mask>
-      <mask>*pp</mask>
       <mask>*p</mask>
       <mask>*(html</mask>
       <mask>*(html|</mask>
@@ -39,6 +37,8 @@
       <mask>y</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*t</mask>
+      <mask>*tf</mask>
     </recentFileMasks>
   </component>
 </application>
