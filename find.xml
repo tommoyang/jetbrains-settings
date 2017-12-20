@@ -7,38 +7,38 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
-      <mask>*(?!</mask>
-      <mask>*gt</mask>
-      <mask>*g</mask>
-      <mask>*t</mask>
-      <mask>*tr</mask>
-      <mask>*tra</mask>
-      <mask>*trai</mask>
-      <mask>*trait.</mask>
       <mask>*trait.p</mask>
       <mask>*trait.ph</mask>
       <mask>*trait.php</mask>
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*(h</mask>
       <mask>*(htom</mask>
       <mask>*(hto</mask>
       <mask>*(ht</mask>
-      <mask>*(html</mask>
-      <mask>*(html|</mask>
       <mask>*(html|j</mask>
       <mask>*(html|js)</mask>
       <mask>*(html|js</mask>
-      <mask>*(</mask>
-      <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
+      <mask>*(h</mask>
+      <mask>*(html|c</mask>
+      <mask>*(html|cs</mask>
+      <mask>*(html|css)_</mask>
+      <mask>*(html|css)</mask>
+      <mask>*(html|css</mask>
+      <mask>*(html|</mask>
+      <mask>*(html</mask>
+      <mask>*(</mask>
       <mask>*h</mask>
+      <mask>*html</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*c</mask>
+      <mask>*cs</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
