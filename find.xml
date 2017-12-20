@@ -23,10 +23,6 @@
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*html</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
       <mask>*(h</mask>
       <mask>*(htom</mask>
       <mask>*(hto</mask>
@@ -37,6 +33,10 @@
       <mask>*(html|js)</mask>
       <mask>*(html|js</mask>
       <mask>*(</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
       <mask>*</mask>
       <mask>*</mask>
     </recentFileMasks>
