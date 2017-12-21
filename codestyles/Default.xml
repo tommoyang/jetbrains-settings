@@ -4,6 +4,7 @@
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot,script,style,body,html" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="SOFT_MARGINS" value="80,140" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,body,html,table" />
