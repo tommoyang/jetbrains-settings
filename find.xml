@@ -9,34 +9,34 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.</mask>
-      <mask>*hhp</mask>
-      <mask>*hthp</mask>
-      <mask>*htmlhp</mask>
-      <mask>*hp</mask>
-      <mask>*.php</mask>
-      <mask>* php</mask>
-      <mask>* ph</mask>
-      <mask>* p</mask>
-      <mask>*ph</mask>
+      <mask>*trait.p</mask>
+      <mask>*trait.ph</mask>
+      <mask>*trait.php</mask>
       <mask>*php</mask>
-      <mask>*pp</mask>
+      <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*(html</mask>
-      <mask>*(html|</mask>
+      <mask>*(htom</mask>
+      <mask>*(hto</mask>
+      <mask>*(ht</mask>
       <mask>*(html|j</mask>
       <mask>*(html|js)</mask>
       <mask>*(html|js</mask>
-      <mask>*(ht</mask>
-      <mask>*(h</mask>
-      <mask>*(</mask>
-      <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
+      <mask>*(h</mask>
+      <mask>*(html|c</mask>
+      <mask>*(html|cs</mask>
+      <mask>*(html|css)_</mask>
+      <mask>*(html|css)</mask>
+      <mask>*(html|css</mask>
+      <mask>*(html|</mask>
+      <mask>*(html</mask>
+      <mask>*(</mask>
       <mask>*h</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
+      <mask>*html</mask>
+      <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*c</mask>
       <mask>*</mask>
       <mask>*</mask>
     </recentFileMasks>
