@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.phpunit;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="php obj" type="PLAIN_TEXT" />
+      <mapping ext="eyaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
