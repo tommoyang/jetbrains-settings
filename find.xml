@@ -35,9 +35,9 @@
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
-      <mask>*</mask>
       <mask>*html</mask>
       <mask>*php</mask>
+      <mask>*</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
