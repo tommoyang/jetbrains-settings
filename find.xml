@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
       <mask>*trait.p</mask>
       <mask>*trait.ph</mask>
@@ -32,13 +32,13 @@
       <mask>*(html</mask>
       <mask>*(</mask>
       <mask>*h</mask>
-      <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
       <mask>*html</mask>
       <mask>*php</mask>
       <mask>*</mask>
       <mask>*</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
