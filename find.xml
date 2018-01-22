@@ -35,6 +35,7 @@
       <mask>*c</mask>
       <mask>*html</mask>
       <mask>*php</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
