@@ -1,0 +1,16 @@
+<keymap version="1" name="Tommo's IntelliJ OSX" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Tool_External Tools_phpcbf">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
