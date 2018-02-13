@@ -30,6 +30,10 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
