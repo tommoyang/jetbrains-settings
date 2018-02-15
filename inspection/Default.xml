@@ -1,6 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CascadeStringReplacementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckImageSize" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCustomPropertiesEnabled" value="false" />
@@ -68,6 +69,9 @@
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnusedGlobalSymbols" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+  <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="SUGGEST_MERGING_ISSET" value="false" />
+  </inspection_tool>
   <inspection_tool class="NullPointerExceptionInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="OneTimeUseVariablesInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="OnlyWritesOnParameterInspection" enabled="false" level="TYPO" enabled_by_default="false" />
@@ -143,6 +147,9 @@
   <inspection_tool class="SummerTimeUnsafeTimeManipulationInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="SuspiciousBinaryOperationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="TypeUnsafeComparisonInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
+  </inspection_tool>
   <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreCatchBlocksWithComments" value="false" />
   </inspection_tool>
