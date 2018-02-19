@@ -3,42 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*tf" />
-    <recentFileMasks>
-      <mask>*p</mask>
-      <mask>*(html</mask>
-      <mask>*(html|</mask>
-      <mask>*(html|j</mask>
-      <mask>*(html|js)</mask>
-      <mask>*(html|js</mask>
-      <mask>*(ht</mask>
-      <mask>*(h</mask>
-      <mask>*(</mask>
-      <mask>*html</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*.pp</mask>
-      <mask>*.p</mask>
-      <mask>*.t</mask>
-      <mask>*.tf</mask>
-      <mask>*.ym</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>yml</mask>
-      <mask>ym</mask>
-      <mask>y</mask>
-      <mask>*</mask>
-      <mask>*</mask>
-      <mask>*t</mask>
-      <mask>*tf</mask>
-    </recentFileMasks>
   </component>
 </application>
