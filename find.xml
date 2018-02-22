@@ -18,6 +18,7 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*(js|html)</mask>
     <mask>*</mask>
   </component>
 </application>
