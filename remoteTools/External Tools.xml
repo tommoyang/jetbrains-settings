@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="load" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:/Users/tommo/workspace">
+    <exec>
+      <option name="COMMAND" value="/var/lib/asknicely/fixtures/scripts/load" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="alice" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:/Users/tommo/workspace">
+    <exec>
+      <option name="COMMAND" value="asknicely" />
+      <option name="PARAMETERS" value="alice:load-fixture -f default -D test" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
