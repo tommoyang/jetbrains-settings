@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="asknicely" />
       <option name="PARAMETERS" value="alice:load-fixture -f default -D test" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
