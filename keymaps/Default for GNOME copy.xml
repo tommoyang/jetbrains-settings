@@ -30,4 +30,8 @@
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
