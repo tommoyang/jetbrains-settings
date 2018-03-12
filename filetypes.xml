@@ -7,6 +7,7 @@
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
       <mapping ext="html" type="Smarty" />
       <mapping pattern="*.vue.html" type="Vue.js" />
+      <mapping ext="context" type="XML" />
       <mapping ext="eyaml" type="YAML" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
