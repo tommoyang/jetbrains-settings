@@ -8,36 +8,17 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*trait.ph</mask>
-      <mask>*trait.php</mask>
-      <mask>*ph</mask>
-      <mask>*p</mask>
-      <mask>*(htom</mask>
-      <mask>*(hto</mask>
-      <mask>*(ht</mask>
-      <mask>*(html|j</mask>
-      <mask>*(html|js)</mask>
-      <mask>*(html|js</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*(h</mask>
-      <mask>*(html|c</mask>
-      <mask>*(html|cs</mask>
-      <mask>*(html|css)_</mask>
-      <mask>*(html|css)</mask>
-      <mask>*(html|css</mask>
-      <mask>*(html|</mask>
-      <mask>*(html</mask>
-      <mask>*(</mask>
-      <mask>*h</mask>
-      <mask>*cs</mask>
-      <mask>*c</mask>
-      <mask>*html</mask>
-      <mask>*php</mask>
-      <mask>*.less</mask>
-      <mask>*less</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.less</mask>
+    <mask>*</mask>
   </component>
 </application>
