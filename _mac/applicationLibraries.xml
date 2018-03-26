@@ -1,57 +1,47 @@
 <application>
   <component name="libraryTable">
+    <library name="api" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.google.com_recaptcha_api.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.google.com_recaptcha_api.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="browser-polyfill" type="javaScript">
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser-polyfill.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser-polyfill.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser-polyfill.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser-polyfill.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_babel-core_5.6.15_browser-polyfill.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="chargebee" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.chargebee.com_v1_chargebee.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.chargebee.com_v1_chargebee.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="Chart.bundle" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.1_Chart.bundle.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.1_Chart.bundle.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="datatables" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_jq-2.2.4_dt-1.10.15_fh-3.1.2_fc-3.2.2_sc-1.4.2_datatables.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_jq-2.2.4_dt-1.10.15_fh-3.1.2_fc-3.2.2_sc-1.4.2_datatables.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="dataTables.uikit" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.15_js_dataTables.uikit.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.15_js_dataTables.uikit.js" />
       </CLASSES>
@@ -103,22 +93,12 @@
       <SOURCES />
     </library>
     <library name="react" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15_dist_react.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15_dist_react.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-dom" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15_dist_react-dom.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15_dist_react-dom.js" />
       </CLASSES>
