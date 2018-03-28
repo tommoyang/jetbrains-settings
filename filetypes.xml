@@ -5,6 +5,7 @@
       <removed_mapping ext="html" type="HTML" />
       <mapping pattern="php obj" type="PLAIN_TEXT" />
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="html" type="Smarty" />
       <mapping pattern="*.vue.html" type="Vue.js" />
       <mapping ext="context" type="XML" />
