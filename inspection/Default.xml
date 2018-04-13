@@ -12,6 +12,7 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
       <list>
@@ -104,7 +105,7 @@
     <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="0" />
     <option name="m_maxLength" value="99" />
