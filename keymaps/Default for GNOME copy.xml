@@ -21,17 +21,19 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="ctrl meta t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
-  <action id="UpdateFiles">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.ReformatCommitMessage" />
 </keymap>
