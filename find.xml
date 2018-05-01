@@ -17,6 +17,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*(html|js)</mask>
     <mask>*</mask>
   </component>
 </application>
