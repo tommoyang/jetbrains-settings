@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="TypeScript" />
       <blacklist language="PHP">
+        <added pattern="\in_array(needle,haystack,strict)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
