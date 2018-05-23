@@ -6,7 +6,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Less" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
@@ -19,14 +19,12 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="$USER_HOME$/workspace/asknicelydo/node_modules/less/bin/lessc" />
+      <option name="program" value="F:/Work/workspace/asknicelydo/node_modules/.bin/lessc.cmd" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
-      <envs>
-        <env name="PATH" value="/usr/local/bin" />
-      </envs>
+      <envs />
     </TaskOptions>
   </component>
 </application>
