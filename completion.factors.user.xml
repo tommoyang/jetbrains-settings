@@ -19,13 +19,13 @@
     <factor id="categoricalFeature:recursion" />
     <factor id="completionFinishedType">
       <dailyData date="30-5-2018">
-        <observation name="cancelled" value="38.0" />
+        <observation name="cancelled" value="62.0" />
       </dailyData>
     </factor>
     <factor id="completionType" />
     <factor id="completionUsage">
       <dailyData date="30-5-2018">
-        <observation name="count" value="38.0" />
+        <observation name="count" value="62.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity" />
