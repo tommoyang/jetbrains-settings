@@ -86,6 +86,7 @@
     <option name="m_minLength" value="0" />
     <option name="m_maxLength" value="99" />
   </inspection_tool>
+  <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="m_minLength" value="0" />
     <option name="m_maxLength" value="99" />
