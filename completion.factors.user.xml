@@ -19,7 +19,7 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
-        <observation name="false" value="4.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -39,7 +39,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
@@ -63,7 +63,7 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
-        <observation name="false" value="4.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
@@ -83,7 +83,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -105,7 +105,7 @@
         <observation name="true" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
@@ -129,7 +129,7 @@
         <observation name="false" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
@@ -152,7 +152,7 @@
         <observation name="false" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
@@ -174,7 +174,7 @@
         <observation name="false" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
@@ -196,7 +196,7 @@
         <observation name="false" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
@@ -219,7 +219,7 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
-        <observation name="false" value="4.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
@@ -239,7 +239,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
@@ -259,7 +259,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:kind">
@@ -279,7 +279,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
@@ -301,7 +301,7 @@
         <observation name="unknown" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_javaInheritance">
@@ -323,7 +323,7 @@
         <observation name="null" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_referenceList">
@@ -345,7 +345,7 @@
         <observation name="unknown" value="1.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:recursion">
@@ -365,7 +365,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
@@ -400,7 +400,7 @@
       <dailyData date="11-6-2018">
         <observation name="cancelled" value="76.0" />
         <observation name="explicitSelect" value="1.0" />
-        <observation name="typedSelect" value="6.0" />
+        <observation name="typedSelect" value="7.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -420,7 +420,7 @@
         <observation name="BASIC" value="9.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="BASIC" value="9.0" />
+        <observation name="BASIC" value="10.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -443,7 +443,7 @@
         <observation name="count" value="224.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="count" value="83.0" />
+        <observation name="count" value="84.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -482,7 +482,7 @@
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="7.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -524,7 +524,7 @@
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="7.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -547,7 +547,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
@@ -567,7 +567,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
@@ -607,11 +607,11 @@
         <observation name="variance" value="0.073633" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="average" value="0.153846" />
-        <observation name="count" value="13.0" />
+        <observation name="average" value="0.133333" />
+        <observation name="count" value="15.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.073633" />
+        <observation name="variance" value="0.069994" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
@@ -649,11 +649,11 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
-        <observation name="average" value="-1155.571429" />
-        <observation name="count" value="7.0" />
+        <observation name="average" value="-1155.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="-1153.0" />
         <observation name="min" value="-1159.0" />
-        <observation name="variance" value="2.120136" />
+        <observation name="variance" value="2.384565" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -692,7 +692,7 @@
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="7.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -729,7 +729,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
@@ -763,7 +763,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
@@ -797,7 +797,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
@@ -831,7 +831,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
@@ -872,7 +872,7 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="13.0" />
+        <observation name="count" value="15.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -915,11 +915,11 @@
         <observation name="variance" value="1.31938" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="average" value="10.615385" />
-        <observation name="count" value="13.0" />
+        <observation name="average" value="9.466667" />
+        <observation name="count" value="15.0" />
         <observation name="max" value="18.0" />
-        <observation name="min" value="4.0" />
-        <observation name="variance" value="13.424735" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="16.511975" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -939,7 +939,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
@@ -959,7 +959,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
@@ -979,7 +979,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
@@ -1020,7 +1020,7 @@
       </dailyData>
       <dailyData date="11-6-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="13.0" />
+        <observation name="count" value="15.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -1043,7 +1043,7 @@
         <observation name="UNDEFINED" value="7.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="UNDEFINED" value="7.0" />
+        <observation name="UNDEFINED" value="8.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
@@ -1082,7 +1082,7 @@
       <dailyData date="11-6-2018">
         <observation name="UNDEFINED" value="3.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="7.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -1183,8 +1183,8 @@
         <observation name="count" value="20.0" />
       </dailyData>
       <dailyData date="11-6-2018">
-        <observation name="average" value="164.673913" />
-        <observation name="count" value="46.0" />
+        <observation name="average" value="164.468085" />
+        <observation name="count" value="47.0" />
       </dailyData>
     </factor>
   </component>
