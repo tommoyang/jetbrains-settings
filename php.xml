@@ -296,7 +296,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
-  </component>
 </application>
