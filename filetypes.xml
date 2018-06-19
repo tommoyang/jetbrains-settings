@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".time()." type="PLAIN_TEXT" />
       <mapping pattern="php obj" type="PLAIN_TEXT" />
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
-      <mapping pattern=".time()." type="PLAIN_TEXT" />
-      <mapping ext="html" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Smarty" />
+      <mapping pattern="*.vue.html" type="Vue.js" />
       <mapping ext="context" type="XML" />
       <mapping ext="eyaml" type="YAML" />
       <mapping pattern="*.vue.html" type="Vue.js" />
