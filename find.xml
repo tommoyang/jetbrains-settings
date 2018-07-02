@@ -19,8 +19,8 @@
     <mask>*(html|js)</mask>
     <mask>*php</mask>
     <mask>*html</mask>
-    <mask>*pp</mask>
     <mask>*.css</mask>
+    <mask>*pp</mask>
     <mask>*</mask>
   </component>
 </application>
