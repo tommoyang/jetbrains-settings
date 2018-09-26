@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Worker.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +21,8 @@
     <mask>*html</mask>
     <mask>*.css</mask>
     <mask>*pp</mask>
+    <mask>(provider|.*)</mask>
     <mask>*</mask>
-    <mask>*.php</mask>
+    <mask>*Worker.php</mask>
   </component>
 </application>
