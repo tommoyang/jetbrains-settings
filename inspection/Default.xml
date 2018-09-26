@@ -1,120 +1,80 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
-  <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CascadeStringReplacementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="CheckImageSize" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="myCustomPropertiesEnabled" value="false" />
-    <option name="myIgnoreVendorSpecificProperties" value="true" />
-    <option name="myCustomPropertiesList">
-      <value>
-        <list size="0" />
-      </value>
-    </option>
-  </inspection_tool>
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
       <list>
         <option value="\Codeception\Util\Debug::debug" />
         <option value="\Codeception\Util\Debug::pause" />
+        <option value="\Doctrine\Common\Util\Debug::dump" />
+        <option value="\Doctrine\Common\Util\Debug::export" />
         <option value="\Illuminate\Support\Debug\Dumper::dump" />
         <option value="\Symfony\Component\Debug\Debug::enable" />
         <option value="\Symfony\Component\Debug\DebugClassLoader::enable" />
         <option value="\Symfony\Component\Debug\ErrorHandler::register" />
         <option value="\Symfony\Component\Debug\ExceptionHandler::register" />
+        <option value="\TYPO3\CMS\Core\Utility\DebugUtility::debug" />
         <option value="\Zend\Debug\Debug::dump" />
         <option value="\Zend\Di\Display\Console::export" />
         <option value="dd" />
         <option value="debug_print_backtrace" />
         <option value="debug_zval_dump" />
+        <option value="dpm" />
+        <option value="dpq" />
+        <option value="dsm" />
+        <option value="dvm" />
         <option value="error_log" />
+        <option value="kpr" />
         <option value="phpinfo" />
         <option value="print_r" />
         <option value="var_dump" />
         <option value="var_export" />
+        <option value="xdebug_break" />
+        <option value="xdebug_call_class" />
+        <option value="xdebug_call_file" />
+        <option value="xdebug_call_function" />
+        <option value="xdebug_call_line" />
+        <option value="xdebug_code_coverage_started" />
+        <option value="xdebug_debug_zval" />
+        <option value="xdebug_debug_zval_stdout" />
+        <option value="xdebug_dump_superglobals" />
+        <option value="xdebug_enable" />
+        <option value="xdebug_get_code_coverage" />
+        <option value="xdebug_get_collected_errors" />
+        <option value="xdebug_get_declared_vars" />
+        <option value="xdebug_get_function_stack" />
+        <option value="xdebug_get_headers" />
+        <option value="xdebug_get_monitored_functions" />
+        <option value="xdebug_get_profiler_filename" />
+        <option value="xdebug_get_stack_depth" />
+        <option value="xdebug_get_tracefile_name" />
+        <option value="xdebug_is_enabled" />
+        <option value="xdebug_memory_usage" />
+        <option value="xdebug_peak_memory_usage" />
+        <option value="xdebug_print_function_stack" />
+        <option value="xdebug_start_code_coverage" />
+        <option value="xdebug_start_error_collection" />
+        <option value="xdebug_start_function_monitor" />
+        <option value="xdebug_start_trace" />
+        <option value="xdebug_stop_code_coverage" />
+        <option value="xdebug_stop_error_collection" />
+        <option value="xdebug_stop_function_monitor" />
+        <option value="xdebug_stop_trace" />
+        <option value="xdebug_time_index" />
+        <option value="xdebug_var_dump" />
       </list>
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
-  <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="myValues">
-      <value>
-        <list size="0" />
-      </value>
-    </option>
-    <option name="myCustomValuesEnabled" value="false" />
-  </inspection_tool>
-  <inspection_tool class="HtmlUnknownTag" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="myValues">
-      <value>
-        <list size="6">
-          <item index="0" class="java.lang.String" itemvalue="nobr" />
-          <item index="1" class="java.lang.String" itemvalue="noembed" />
-          <item index="2" class="java.lang.String" itemvalue="comment" />
-          <item index="3" class="java.lang.String" itemvalue="noscript" />
-          <item index="4" class="java.lang.String" itemvalue="embed" />
-          <item index="5" class="java.lang.String" itemvalue="script" />
-        </list>
-      </value>
-    </option>
-    <option name="myCustomValuesEnabled" value="true" />
-  </inspection_tool>
-  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
-  </inspection_tool>
-  <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="JSLastCommaInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSUnusedGlobalSymbols" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="TYPO" enabled_by_default="false" />
-  <inspection_tool class="NullPointerExceptionInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="OneTimeUseVariablesInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="OnlyWritesOnParameterInspection" enabled="false" level="TYPO" enabled_by_default="false" />
-  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="CODING_STANDARD" value="Custom" />
-    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/workspace/asknicelydo/phpcs.xml" />
-  </inspection_tool>
-  <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
-  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
-  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
-  <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
-  <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
-  </inspection_tool>
-  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false">
-    <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="99" />
-  </inspection_tool>
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>
         <option value="behat/behat" />
         <option value="brianium/paratest" />
         <option value="codeception/codeception" />
+        <option value="codedungeon/phpunit-result-printer" />
         <option value="composer/composer" />
         <option value="filp/whoops" />
         <option value="friendsofphp/php-cs-fixer" />
@@ -143,6 +103,7 @@
         <option value="satooshi/php-coveralls" />
         <option value="sebastian/phpcpd" />
         <option value="slevomat/coding-standard" />
+        <option value="spatie/phpunit-watcher" />
         <option value="squizlabs/php_codesniffer" />
         <option value="sstalle/php7cc" />
         <option value="symfony/debug" />
@@ -163,17 +124,5 @@
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
-  <inspection_tool class="SqlDialectInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SqlResolveInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SummerTimeUnsafeTimeManipulationInspection" enabled="true" level="TYPO" enabled_by_default="true" />
-  <inspection_tool class="SuspiciousBinaryOperationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="TypeUnsafeComparisonInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
-  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="SUGGEST_TO_USE_NULL_COMPARISON" value="false" />
-  </inspection_tool>
-  <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignoreCatchBlocksWithComments" value="false" />
-  </inspection_tool>
   <inspection_tool class="VueDuplicateTag" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="XmlInvalidId" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
 </profile>
