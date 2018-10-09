@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.example" type="YAML" />
       <mapping ext="eyaml" type="YAML" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
 </application>
