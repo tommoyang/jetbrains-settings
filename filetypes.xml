@@ -1,10 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping pattern="*.yml.example" type="YAML" />
-      <mapping ext="eyaml" type="YAML" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="html" type="Smarty" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>

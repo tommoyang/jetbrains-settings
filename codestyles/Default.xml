@@ -11,11 +11,11 @@
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script,style,body,html,table" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
@@ -35,7 +35,12 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
