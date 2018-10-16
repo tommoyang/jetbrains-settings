@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.sh.erb" type="Bash" />
       <mapping ext="tfstate" type="JSON" />
       <removed_mapping ext="erb" approved="true" type="RHTML" />
       <mapping ext="eyaml" type="YAML" />
