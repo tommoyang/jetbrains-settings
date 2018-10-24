@@ -5,8 +5,10 @@
       <mapping pattern="*.sh.erb" type="Bash" />
       <mapping ext="tfstate" type="JSON" />
       <removed_mapping ext="erb" approved="true" type="RHTML" />
+      <mapping pattern="*.yaml.erb" type="YAML" />
       <mapping ext="eyaml" type="YAML" />
       <removed_mapping ext="erb" approved="true" type="RHTML" />
+      <removed_mapping pattern="*.yaml.erb" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
