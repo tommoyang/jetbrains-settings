@@ -2,7 +2,7 @@
   <tool name="drop" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
     <exec>
       <option name="COMMAND" value="/vagrant/asknicely/tests/sql-fixtures/scripts/drop" />
-      <option name="PARAMETERS" />
+      <option name="PARAMETERS" value="DROP_ALL=1 DROP_CONFIRM=1" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
