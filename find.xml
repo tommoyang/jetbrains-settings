@@ -23,6 +23,7 @@
     <mask>*pp</mask>
     <mask>(provider|.*)</mask>
     <mask>*Worker.php</mask>
+    <mask>*.pp</mask>
     <mask>*</mask>
   </component>
 </application>
