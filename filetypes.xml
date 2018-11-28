@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="*.yaml.erb" type="YAML" />
       <mapping ext="eyaml" type="YAML" />
       <removed_mapping pattern="*.yaml.erb" approved="true" type="PLAIN_TEXT" />
