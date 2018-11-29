@@ -25,6 +25,7 @@
     <mask>*.pp</mask>
     <mask>*sh</mask>
     <mask>*php</mask>
+    <mask>*test*</mask>
     <mask>*</mask>
   </component>
 </application>
