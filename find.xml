@@ -17,7 +17,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*(html|js)</mask>
-    <mask>*php</mask>
     <mask>*html</mask>
     <mask>*.css</mask>
     <mask>*pp</mask>
@@ -25,6 +24,7 @@
     <mask>*Worker.php</mask>
     <mask>*.pp</mask>
     <mask>*sh</mask>
+    <mask>*php</mask>
     <mask>*</mask>
   </component>
 </application>
