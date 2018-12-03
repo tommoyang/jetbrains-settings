@@ -25,6 +25,7 @@
     <mask>*Worker.php</mask>
     <mask>*.pp</mask>
     <mask>*sh</mask>
+    <mask>*.sh.</mask>
     <mask>*</mask>
   </component>
 </application>
