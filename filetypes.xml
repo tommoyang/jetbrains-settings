@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*.sh.erb" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="ec2.tf" type="PLAIN_TEXT" />
       <mapping pattern="*.yaml.erb" type="YAML" />
