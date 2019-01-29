@@ -66,6 +66,11 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="EXTENSIONS" value="php" />
+  </inspection_tool>
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -124,4 +129,5 @@
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
+  <inspection_tool class="VueDuplicateTag" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
