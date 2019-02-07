@@ -1,15 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.phpunit;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="*.sh.erb" type="Bash" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="tfstate" type="JSON" />
-      <mapping pattern="ec2.tf" type="PLAIN_TEXT" />
-      <mapping pattern="*.yaml.erb" type="YAML" />
+      <mapping pattern=".time()." type="PLAIN_TEXT" />
+      <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
+      <mapping pattern="php obj" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="en" type="PLAIN_TEXT" />
+      <mapping ext="context" type="XML" />
       <mapping ext="eyaml" type="YAML" />
-      <removed_mapping pattern="*.erb.*" approved="true" type="Ruby" />
-      <removed_mapping pattern="*.yaml.erb" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.vue.html" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
