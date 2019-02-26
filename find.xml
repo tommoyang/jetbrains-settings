@@ -18,6 +18,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh.erb</mask>
+    <mask>*provider.php</mask>
     <mask>*</mask>
   </component>
 </application>
