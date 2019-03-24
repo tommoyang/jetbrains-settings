@@ -18,10 +18,10 @@
     <mask>*.mxml</mask>
     <mask>*.sh.erb</mask>
     <mask>*provider.php</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>master*html</mask>
+    <mask>*.html</mask>
     <mask>*</mask>
   </component>
 </application>
