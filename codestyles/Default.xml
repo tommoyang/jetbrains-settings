@@ -1,10 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </value>
-  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="140" />
   <option name="HTML_ALIGN_TEXT" value="true" />
@@ -46,6 +40,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
