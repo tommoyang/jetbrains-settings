@@ -17,12 +17,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh.erb</mask>
-    <mask>*provider.php</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>master*html</mask>
     <mask>*.tpl</mask>
     <mask>*.html</mask>
+    <mask>*provider.php</mask>
     <mask>*</mask>
   </component>
 </application>
