@@ -23,6 +23,7 @@
     <mask>*.html</mask>
     <mask>*provider.php</mask>
     <mask>*.sql</mask>
+    <mask>*php</mask>
     <mask>*</mask>
     <mask>*.php</mask>
   </component>
