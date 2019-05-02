@@ -27,6 +27,7 @@
     <mask>*.php</mask>
     <mask>*provider.php</mask>
     <mask>*repository.php</mask>
+    <mask>*eyaml</mask>
     <mask>*</mask>
   </component>
 </application>
