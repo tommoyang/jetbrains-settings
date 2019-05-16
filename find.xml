@@ -29,6 +29,7 @@
     <mask>*repository.php</mask>
     <mask>*eyaml</mask>
     <mask>*worker.php</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
   </component>
 </application>
