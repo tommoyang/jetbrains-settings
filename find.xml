@@ -25,11 +25,11 @@
     <mask>*php</mask>
     <mask>*.pp</mask>
     <mask>*.php</mask>
-    <mask>*provider.php</mask>
     <mask>*repository.php</mask>
     <mask>*eyaml</mask>
     <mask>*worker.php</mask>
     <mask>*.yml</mask>
+    <mask>*provider.php</mask>
     <mask>*</mask>
   </component>
 </application>
