@@ -31,6 +31,7 @@
     <mask>*.yml</mask>
     <mask>*provider.php</mask>
     <mask>*.erb</mask>
+    <mask>*html</mask>
     <mask>*</mask>
   </component>
 </application>
