@@ -28,10 +28,11 @@
     <mask>*eyaml</mask>
     <mask>*worker.php</mask>
     <mask>*.yml</mask>
-    <mask>*provider.php</mask>
     <mask>*.erb</mask>
     <mask>*html</mask>
     <mask>*php</mask>
+    <mask>*provider.php</mask>
+    <mask>*yml</mask>
     <mask>*</mask>
   </component>
 </application>
