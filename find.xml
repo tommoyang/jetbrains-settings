@@ -33,6 +33,7 @@
     <mask>*php</mask>
     <mask>*provider.php</mask>
     <mask>*yml</mask>
+    <mask>*.eyaml</mask>
     <mask>*</mask>
   </component>
 </application>
