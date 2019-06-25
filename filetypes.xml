@@ -2,22 +2,21 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.tfstate;*.tfstate.*.backup;*.yarb;*~;.DS_Store;.git;.hg;.idea;.phpunit;.svn;.terraform;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".rules" type="Bash" />
-      <mapping pattern="config" type="Bash" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern="builddump" type="PLAIN_TEXT" />
-      <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
       <mapping pattern="php obj" type="PLAIN_TEXT" />
+      <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
       <mapping pattern=".time()." type="PLAIN_TEXT" />
       <mapping pattern="rds-production" type="PLAIN_TEXT" />
+      <mapping pattern="builddump" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Smarty" />
+      <mapping pattern="*.vue.html" type="Vue.js" />
       <mapping ext="context" type="XML" />
       <mapping pattern="*.eyaml.example" type="YAML" />
       <mapping ext="eyaml" type="YAML" />
@@ -25,7 +24,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*.vue.html" type="Vue.js" />
+      <mapping pattern=".rules" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="config" type="Bash" />
     </extensionMap>
   </component>
 </application>
