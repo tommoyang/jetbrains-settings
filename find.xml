@@ -29,13 +29,13 @@
     <mask>*worker.php</mask>
     <mask>*.yml</mask>
     <mask>*.erb</mask>
-    <mask>*php</mask>
     <mask>*provider.php</mask>
     <mask>*yml</mask>
     <mask>*.eyaml</mask>
     <mask>*.vue</mask>
     <mask>*html</mask>
     <mask>*vue</mask>
+    <mask>*php</mask>
     <mask>*</mask>
   </component>
 </application>
