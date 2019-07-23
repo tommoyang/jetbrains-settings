@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +17,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh.erb</mask>
-    <mask>*.ts</mask>
     <mask>master*html</mask>
     <mask>*.tpl</mask>
     <mask>*.html</mask>
@@ -37,5 +36,6 @@
     <mask>*vue</mask>
     <mask>*php</mask>
     <mask>*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
