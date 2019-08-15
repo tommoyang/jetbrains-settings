@@ -1,11 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot,script,style,body,html" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="SOFT_MARGINS" value="80,140" />
+  <option name="SOFT_MARGINS" value="80,120" />
   <DB2CodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
@@ -169,6 +169,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <arrangement>
       <rules>
