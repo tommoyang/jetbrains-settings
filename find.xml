@@ -31,11 +31,11 @@
     <mask>*provider.php</mask>
     <mask>*yml</mask>
     <mask>*.eyaml</mask>
-    <mask>*.vue</mask>
     <mask>*html</mask>
     <mask>*vue</mask>
     <mask>*php</mask>
     <mask>*.ts</mask>
+    <mask>*.vue</mask>
     <mask>*</mask>
   </component>
 </application>
