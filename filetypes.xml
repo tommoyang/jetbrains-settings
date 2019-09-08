@@ -4,9 +4,11 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Smarty" />
       <mapping pattern="*.xml.dist" type="XML" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <mapping ext="eyaml" type="YAML" />
@@ -15,7 +17,7 @@
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="html" approved="true" type="Smarty" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
