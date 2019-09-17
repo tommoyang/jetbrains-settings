@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="fi@userDefined" key=".fi" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="for($i = 0, $iMax = count($EXPR$); $i &lt; $iMax; $i++) {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
