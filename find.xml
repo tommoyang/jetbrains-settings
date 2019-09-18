@@ -28,7 +28,6 @@
     <mask>*worker.php</mask>
     <mask>*.yml</mask>
     <mask>*.erb</mask>
-    <mask>*provider.php</mask>
     <mask>*yml</mask>
     <mask>*.eyaml</mask>
     <mask>*html</mask>
@@ -36,6 +35,7 @@
     <mask>*php</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
+    <mask>*provider.php</mask>
     <mask>*</mask>
   </component>
 </application>
