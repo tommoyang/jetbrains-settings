@@ -7,6 +7,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/data" />
@@ -26,6 +27,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/addressable-2.6.0/data" />
@@ -44,6 +46,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ansi-1.5.0/demo" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ansi-1.5.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ansi-1.5.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ansi-1.5.0/demo" />
@@ -63,6 +66,7 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="ast (v2.4.0, ruby-2.5.1-p57) [gem]">
@@ -70,6 +74,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ast-2.4.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ast-2.4.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ast-2.4.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ast-2.4.0/test" />
@@ -82,6 +87,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-eventstream-1.0.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-eventstream-1.0.1/lib" />
       </SOURCES>
@@ -90,6 +96,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-partitions-1.136.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-partitions-1.136.0/lib" />
       </SOURCES>
@@ -98,6 +105,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-autoscaling-1.13.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-autoscaling-1.13.0/lib" />
       </SOURCES>
@@ -106,6 +114,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-cloudwatch-1.13.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-cloudwatch-1.13.0/lib" />
       </SOURCES>
@@ -114,6 +123,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.46.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.46.0/lib" />
       </SOURCES>
@@ -122,6 +132,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-ec2-1.67.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-ec2-1.67.0/lib" />
       </SOURCES>
@@ -130,6 +141,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-efs-1.7.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-efs-1.7.0/lib" />
       </SOURCES>
@@ -138,6 +150,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticache-1.10.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticache-1.10.0/lib" />
       </SOURCES>
@@ -146,6 +159,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticloadbalancing-1.8.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticloadbalancing-1.8.0/lib" />
       </SOURCES>
@@ -154,6 +168,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticloadbalancingv2-1.20.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-elasticloadbalancingv2-1.20.0/lib" />
       </SOURCES>
@@ -162,6 +177,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-iam-1.13.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-iam-1.13.0/lib" />
       </SOURCES>
@@ -170,6 +186,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.13.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.13.0/lib" />
       </SOURCES>
@@ -178,6 +195,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-rds-1.43.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-rds-1.43.0/lib" />
       </SOURCES>
@@ -186,6 +204,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-redshift-1.18.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-redshift-1.18.0/lib" />
       </SOURCES>
@@ -194,6 +213,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-route53-1.17.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-route53-1.17.0/lib" />
       </SOURCES>
@@ -202,6 +222,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.30.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.30.1/lib" />
       </SOURCES>
@@ -210,6 +231,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-sns-1.9.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-sns-1.9.0/lib" />
       </SOURCES>
@@ -218,6 +240,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-sqs-1.10.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-sqs-1.10.0/lib" />
       </SOURCES>
@@ -226,6 +249,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sigv4-1.0.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sigv4-1.0.3/lib" />
       </SOURCES>
@@ -239,6 +263,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.1.0/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.1.0/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.1.0/ext" />
@@ -264,6 +289,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.5.0/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.5.0/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.5.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-4.5.0/ext" />
@@ -284,6 +310,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-abs-0.5.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-abs-0.5.0/lib" />
       </SOURCES>
@@ -294,6 +321,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-answers-0.25.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-answers-0.25.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-answers-0.25.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-answers-0.25.0/lib" />
@@ -309,6 +337,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.22/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.22/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.22/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.22/lib" />
@@ -322,6 +351,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.25/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.25/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.25/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-hostgenerator-1.1.25/lib" />
@@ -338,6 +368,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.5/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.5/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.5/lib" />
@@ -360,6 +391,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.6/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.6/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.6/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-pe-2.0.6/lib" />
@@ -383,6 +415,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.15.1/tasks" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.15.1/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.15.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.15.1/lib" />
@@ -408,6 +441,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.8.0/tasks" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.8.0/acceptance" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.8.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet-1.8.0/lib" />
@@ -429,6 +463,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet_install_helper-0.9.7/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet_install_helper-0.9.7/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet_install_helper-0.9.7/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-puppet_install_helper-0.9.7/spec" />
@@ -442,6 +477,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-rspec-6.2.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-rspec-6.2.4/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-rspec-6.2.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-rspec-6.2.4/spec" />
@@ -456,6 +492,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.0/lib" />
@@ -472,6 +509,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/beaker-vmpooler-1.3.1/lib" />
@@ -484,6 +522,7 @@
     </library>
     <library name="bigdecimal (v1.3.4, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="bigdecimal (v1.4.3, ruby-2.5.1-p57) [gem]">
@@ -492,6 +531,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bigdecimal-1.4.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bigdecimal-1.4.3/sample" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bigdecimal-1.4.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bigdecimal-1.4.3/lib" />
@@ -504,6 +544,7 @@
     </library>
     <library name="bundle (v0.0.1, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="bundler (v1.16.1, ruby-2.5.1-p57) [gem]">
@@ -521,6 +562,7 @@
         <root url="file:///usr/local/lib/ruby/2.5.0/bundler/templates" />
         <root url="file:///usr/local/lib/ruby/2.5.0/bundler/compact_index_client" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ui" />
         <root url="file:///usr/local/lib/ruby/2.5.0/bundler/cli" />
@@ -555,6 +597,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.4/man" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.4/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.4/lib" />
@@ -571,6 +614,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/man" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/lib" />
@@ -588,6 +632,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-10.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-10.0.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-10.0.2/exe" />
@@ -606,6 +651,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/9.0.6" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/bin" />
@@ -621,12 +667,14 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/CFPropertyList-2.3.6/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/CFPropertyList-2.3.6/lib" />
       </SOURCES>
     </library>
     <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="coderay (v1.1.2, ruby-2.5.1-p57) [gem]">
@@ -634,6 +682,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/coderay-1.1.2/lib" />
@@ -647,6 +696,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/colored-1.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/colored-1.2/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/colored-1.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/colored-1.2/test" />
@@ -660,6 +710,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.15.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.15.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.15.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.15.3/test" />
@@ -673,6 +724,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.6.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.6.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.6.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cri-2.6.1/test" />
@@ -683,18 +735,21 @@
     </library>
     <library name="csv (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="csv (v3.0.4, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/csv-3.0.4/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/csv-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="date (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="date (v2.0.0, ruby-2.5.1-p57) [gem]">
@@ -702,6 +757,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/date-2.0.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/date-2.0.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/date-2.0.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/date-2.0.0/lib" />
@@ -712,6 +768,7 @@
     </library>
     <library name="dbm (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="deep_merge (v1.2.1, ruby-2.5.1-p57) [gem]">
@@ -719,6 +776,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/deep_merge-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/deep_merge-1.2.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/deep_merge-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/deep_merge-1.2.1/test" />
@@ -735,6 +793,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
@@ -757,6 +816,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.3.0/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.3.0/benchmark" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.3.0/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.3.0/lib" />
@@ -779,6 +839,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/lib" />
@@ -795,6 +856,7 @@
     </library>
     <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="etc (v1.0.1, ruby-2.5.1-p57) [gem]">
@@ -804,6 +866,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/etc-1.0.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/etc-1.0.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/etc-1.0.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/etc-1.0.1/ext" />
@@ -824,6 +887,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/facter-2.5.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/facter-2.5.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/facter-2.5.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/facter-2.5.1/etc" />
@@ -842,6 +906,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday-0.15.4/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday-0.15.4/lib" />
       </SOURCES>
@@ -850,6 +915,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday-0.9.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday-0.9.2/lib" />
       </SOURCES>
@@ -858,6 +924,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday_middleware-0.10.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday_middleware-0.10.1/lib" />
       </SOURCES>
@@ -866,6 +933,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday_middleware-0.13.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/faraday_middleware-0.13.0/lib" />
       </SOURCES>
@@ -874,6 +942,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-1.1.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-1.1.0/lib" />
       </SOURCES>
@@ -882,6 +951,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-1.1.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-1.1.2/lib" />
       </SOURCES>
@@ -890,20 +960,24 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-2.0.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fast_gettext-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="fcntl (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fiddle (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fileutils (v1.0.2, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fileutils (v1.1.0, ruby-2.5.1-p57) [gem]">
@@ -911,6 +985,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fileutils-1.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fileutils-1.1.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fileutils-1.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/fileutils-1.1.0/lib" />
@@ -930,6 +1005,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.3/locale" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.3/samples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.3/po" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.3/bin" />
@@ -961,6 +1037,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.9/locale" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.9/samples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.9/po" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-3.2.9/bin" />
@@ -987,6 +1064,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.26/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.26/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.26/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.26/spec" />
@@ -1003,6 +1081,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.30/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.30/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.30/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gettext-setup-0.30/spec" />
@@ -1056,6 +1135,7 @@
         <root url="jar:///usr/local/Cellar/groovysdk/2.4.11/libexec/lib/xmlpull-1.1.3.1.jar!/" />
         <root url="jar:///usr/local/Cellar/groovysdk/2.4.11/libexec/lib/xstream-1.4.7.jar!/" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="hiera (v3.4.5, ruby-2.5.1-p57) [gem]">
@@ -1064,6 +1144,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.4.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.4.5/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.4.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.4.5/lib" />
@@ -1080,6 +1161,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.5.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.5.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.5.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-3.5.0/lib" />
@@ -1097,6 +1179,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-2.1.0/tools" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-2.1.0/sublime_text" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-2.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-2.1.0/lib" />
@@ -1116,6 +1199,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-3.0.0/tools" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-3.0.0/sublime_text" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-3.0.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hiera-eyaml-3.0.0/lib" />
@@ -1136,6 +1220,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-1.6.21/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-1.6.21/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-1.6.21/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-1.6.21/lib" />
@@ -1157,6 +1242,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-2.0.1/site" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-2.0.1/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-2.0.1/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/highline-2.0.1/lib" />
@@ -1175,6 +1261,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hocon-1.2.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hocon-1.2.5/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hocon-1.2.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/hocon-1.2.5/lib" />
@@ -1192,6 +1279,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httpclient-2.8.3/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httpclient-2.8.3/sample" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httpclient-2.8.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httpclient-2.8.3/lib" />
@@ -1209,6 +1297,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/in-parallel-0.1.17/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/in-parallel-0.1.17/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/in-parallel-0.1.17/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/in-parallel-0.1.17/spec" />
@@ -1222,6 +1311,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/inifile-3.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/inifile-3.0.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/inifile-3.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/inifile-3.0.0/test" />
@@ -1232,6 +1322,7 @@
     </library>
     <library name="io-console (v0.4.6, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="io-console (v0.4.7, ruby-2.5.1-p57) [gem]">
@@ -1239,6 +1330,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/io-console-0.4.7/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/io-console-0.4.7/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/io-console-0.4.7/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/io-console-0.4.7/lib" />
@@ -1249,6 +1341,7 @@
     </library>
     <library name="ipaddr (v1.2.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="ipaddr (v1.2.2, ruby-2.5.1-p57) [gem]">
@@ -1256,6 +1349,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ipaddr-1.2.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ipaddr-1.2.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ipaddr-1.2.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ipaddr-1.2.2/lib" />
@@ -1268,6 +1362,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jmespath-1.4.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jmespath-1.4.0/lib" />
       </SOURCES>
@@ -1276,6 +1371,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/2.5.0/json/add" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/2.5.0/json/add" />
       </SOURCES>
@@ -1288,6 +1384,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/json-schema-2.8.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/json-schema-2.8.1/resources" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/json-schema-2.8.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/json-schema-2.8.1/resources" />
@@ -1303,6 +1400,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/locale-2.1.2/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/locale-2.1.2/samples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/locale-2.1.2/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/locale-2.1.2/lib" />
@@ -1322,6 +1420,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/log4r-1.1.10/tests" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/log4r-1.1.10/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/log4r-1.1.10/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/log4r-1.1.10/lib" />
@@ -1339,6 +1438,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metaclass-0.0.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metaclass-0.0.4/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metaclass-0.0.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metaclass-0.0.4/test" />
@@ -1354,6 +1454,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metadata-json-lint-2.2.0/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metadata-json-lint-2.2.0/tests" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metadata-json-lint-2.2.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/metadata-json-lint-2.2.0/lib" />
@@ -1371,6 +1472,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/method_source-0.9.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/method_source-0.9.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/method_source-0.9.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/method_source-0.9.2/spec" />
@@ -1385,6 +1487,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.6.1/docs" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.6.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.6.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.6.1/docs" />
@@ -1401,6 +1504,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.7/docs" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.7/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.7/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.7/docs" />
@@ -1417,6 +1521,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.8/docs" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.8/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.8/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitar-0.8/docs" />
@@ -1432,6 +1537,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
@@ -1445,6 +1551,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/test" />
@@ -1461,6 +1568,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.7.0/gemfiles" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.7.0/yard-templates" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.7.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.7.0/lib" />
@@ -1484,6 +1592,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.8.0/gemfiles" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.8.0/yard-templates" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.8.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mocha-1.8.0/lib" />
@@ -1504,6 +1613,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.12.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
@@ -1512,6 +1622,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.12.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.12.2/lib" />
       </SOURCES>
@@ -1520,6 +1631,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
       </SOURCES>
@@ -1529,6 +1641,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multipart-post-2.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multipart-post-2.0.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multipart-post-2.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multipart-post-2.0.0/test" />
@@ -1542,6 +1655,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-scp-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-scp-1.2.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-scp-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-scp-1.2.1/test" />
@@ -1555,6 +1669,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-4.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-4.2.0/support" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-4.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-4.2.0/support" />
@@ -1568,6 +1683,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-5.1.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-5.1.0/support" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-5.1.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-ssh-5.1.0/support" />
@@ -1581,6 +1697,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
@@ -1594,6 +1711,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.2.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.2.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.2.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.2.0/lib" />
@@ -1609,6 +1727,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/oga-2.15/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/oga-2.15/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oga/2.15" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/oga-2.15/doc" />
@@ -1625,6 +1744,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/open_uri_redirections-0.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/open_uri_redirections-0.2.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/open_uri_redirections-0.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/open_uri_redirections-0.2.1/spec" />
@@ -1635,6 +1755,7 @@
     </library>
     <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="openssl (v2.1.2, ruby-2.5.1-p57) [gem]">
@@ -1642,6 +1763,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/openssl-2.1.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/openssl-2.1.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/openssl-2.1.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/openssl-2.1.2/lib" />
@@ -1655,6 +1777,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/optimist-3.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/optimist-3.0.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/optimist-3.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/optimist-3.0.0/test" />
@@ -1669,6 +1792,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pathspec-0.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pathspec-0.2.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pathspec-0.2.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pathspec-0.2.1/lib" />
@@ -1684,6 +1808,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
@@ -1697,6 +1822,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.3/lib" />
@@ -1710,6 +1836,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-0.12.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-0.12.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-0.12.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-0.12.2/lib" />
@@ -1722,6 +1849,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-byebug-3.4.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-byebug-3.4.3/lib" />
       </SOURCES>
@@ -1730,6 +1858,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-byebug-3.6.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pry-byebug-3.6.0/lib" />
       </SOURCES>
@@ -1741,6 +1870,7 @@
         <root url="file:///usr/local/lib/ruby/2.5.0/psych/handlers" />
         <root url="file:///usr/local/lib/ruby/2.5.0/psych/visitors" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/2.5.0/psych/json" />
         <root url="file:///usr/local/lib/ruby/2.5.0/psych/nodes" />
@@ -1760,6 +1890,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/psych-3.1.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/psych-3.1.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/psych-3.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/psych-3.1.0/ext" />
@@ -1777,6 +1908,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/lib" />
@@ -1801,6 +1933,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.0.4/locales" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.0.4/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.0.4/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.0.4/ext" />
@@ -1835,6 +1968,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.2.0-universal-darwin/locales" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.2.0-universal-darwin/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.2.0-universal-darwin/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-6.2.0-universal-darwin/ext" />
@@ -1863,6 +1997,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.0/lib" />
@@ -1879,6 +2014,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.6/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.6/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.6/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-2.3.6/lib" />
@@ -1894,6 +2030,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-absolute_classname-check-0.2.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-absolute_classname-check-0.2.5/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-absolute_classname-check-0.2.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-absolute_classname-check-0.2.5/spec" />
@@ -1907,6 +2044,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-alias-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-alias-check-0.1.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-alias-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-alias-check-0.1.1/spec" />
@@ -1920,6 +2058,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-empty_string-check-0.2.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-empty_string-check-0.2.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-empty_string-check-0.2.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-empty_string-check-0.2.2/spec" />
@@ -1933,6 +2072,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_ensure-check-0.3.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_ensure-check-0.3.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_ensure-check-0.3.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_ensure-check-0.3.1/spec" />
@@ -1946,6 +2086,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_source_rights-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_source_rights-check-0.1.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_source_rights-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-file_source_rights-check-0.1.1/spec" />
@@ -1959,6 +2100,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-leading_zero-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-leading_zero-check-0.1.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-leading_zero-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-leading_zero-check-0.1.1/spec" />
@@ -1972,6 +2114,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-spaceship_operator_without_tag-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-spaceship_operator_without_tag-check-0.1.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-spaceship_operator_without_tag-check-0.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-spaceship_operator_without_tag-check-0.1.1/spec" />
@@ -1985,6 +2128,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.1/spec" />
@@ -1998,6 +2142,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-trailing_comma-check-0.4.2/spec" />
@@ -2011,6 +2156,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-undef_in_function-check-0.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-undef_in_function-check-0.2.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-undef_in_function-check-0.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-undef_in_function-check-0.2.1/spec" />
@@ -2024,6 +2170,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-unquoted_string-check-0.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-unquoted_string-check-0.3.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-unquoted_string-check-0.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-unquoted_string-check-0.3.0/spec" />
@@ -2037,6 +2184,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-variable_contains_upcase-1.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-variable_contains_upcase-1.2.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-variable_contains_upcase-1.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-lint-variable_contains_upcase-1.2.0/spec" />
@@ -2052,6 +2200,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-resource_api-1.6.2/misc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-resource_api-1.6.2/contrib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-resource_api-1.6.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-resource_api-1.6.2/lib" />
@@ -2069,6 +2218,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-1.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-1.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-1.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-1.0.0/spec" />
@@ -2083,6 +2233,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-2.1.0/misc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-2.1.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-2.1.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-strings-2.1.0/misc" />
@@ -2098,6 +2249,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-syntax-2.4.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-syntax-2.4.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-syntax-2.4.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet-syntax-2.4.1/spec" />
@@ -2112,6 +2264,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.6/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.6/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.6/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.6/spec" />
@@ -2128,6 +2281,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.9/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.9/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppet_forge-2.2.9/spec" />
@@ -2142,6 +2296,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppetlabs_spec_helper-2.12.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppetlabs_spec_helper-2.12.0/lib" />
       </SOURCES>
@@ -2150,8 +2305,34 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppetlabs_spec_helper-2.13.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puppetlabs_spec_helper-2.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1380300045" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1380300045" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
     <library name="r10k (v2.5.5, ruby-2.5.1-p57) [gem]">
@@ -2163,6 +2344,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-2.5.5/locales" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-2.5.5/integration" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-2.5.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-2.5.5/doc" />
@@ -2190,6 +2372,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-3.1.0/locales" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-3.1.0/integration" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-3.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/r10k-3.1.0/doc" />
@@ -2217,6 +2400,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
@@ -2236,6 +2420,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.1/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.1/doc" />
@@ -2255,6 +2440,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.2/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.2/doc" />
@@ -2274,6 +2460,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rb-readline-0.5.5/bench" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rb-readline-0.5.5/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rb-readline-0.5.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rb-readline-0.5.5/test" />
@@ -2298,6 +2485,7 @@
         <root url="file:///usr/local/lib/ruby/2.5.0/rdoc/markdown" />
         <root url="file:///usr/local/lib/ruby/2.5.0/rdoc/generator" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/2.5.0/rdoc/rd" />
         <root url="file:///usr/local/lib/ruby/2.5.0/rdoc/ri" />
@@ -2327,6 +2515,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rdoc-6.1.1/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rdoc-6.1.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rdoc-6.1.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rdoc-6.1.1/exe" />
@@ -2342,6 +2531,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-1.3.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-1.3.3/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-1.3.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-1.3.3/spec" />
@@ -2355,6 +2545,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-2.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-2.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-2.0.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/require_all-2.0.0/spec" />
@@ -2368,6 +2559,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rgen-0.8.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rgen-0.8.2/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rgen-0.8.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rgen-0.8.2/test" />
@@ -2380,6 +2572,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-3.8.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-3.8.0/lib" />
       </SOURCES>
@@ -2389,6 +2582,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/lib" />
@@ -2401,6 +2595,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.2/lib" />
       </SOURCES>
@@ -2412,6 +2607,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-its-1.2.0/script" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-its-1.2.0/features" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-its-1.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-its-1.2.0/spec" />
@@ -2427,6 +2623,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
@@ -2436,6 +2633,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-puppet-2.7.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-puppet-2.7.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-puppet-2.7.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-puppet-2.7.2/lib" />
@@ -2448,6 +2646,7 @@
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
@@ -2457,6 +2656,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rsync-1.0.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rsync-1.0.9/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rsync-1.0.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rsync-1.0.9/spec" />
@@ -2473,6 +2673,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-ll-2.1.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-ll-2.1.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-ll/2.1.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-ll-2.1.2/bin" />
@@ -2488,10 +2689,12 @@
     </library>
     <library name="scanf (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="sdbm (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="semantic_puppet (v0.1.4, ruby-2.5.1-p57) [gem]">
@@ -2500,6 +2703,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-0.1.4/spec" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-0.1.4/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-0.1.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-0.1.4/spec" />
@@ -2515,6 +2719,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-1.0.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-1.0.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-1.0.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/semantic_puppet-1.0.2/spec" />
@@ -2529,6 +2734,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/serverspec-2.41.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/serverspec-2.41.3/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/serverspec-2.41.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/serverspec-2.41.3/lib" />
@@ -2544,6 +2750,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sfl-2.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sfl-2.3/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sfl-2.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sfl-2.3/spec" />
@@ -2557,6 +2764,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/spdx-licenses-1.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/spdx-licenses-1.2.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/spdx-licenses-1.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/spdx-licenses-1.2.0/test" />
@@ -2570,6 +2778,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.3/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.3/spec" />
@@ -2583,6 +2792,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.9/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/specinfra-2.76.9/spec" />
@@ -2596,6 +2806,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringify-hash-0.0.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringify-hash-0.0.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringify-hash-0.0.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringify-hash-0.0.2/spec" />
@@ -2606,6 +2817,7 @@
     </library>
     <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="stringio (v0.0.2, ruby-2.5.1-p57) [gem]">
@@ -2613,6 +2825,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringio-0.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringio-0.0.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringio-0.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/stringio-0.0.2/lib" />
@@ -2623,6 +2836,7 @@
     </library>
     <library name="strscan (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="terraforming (v0.16.0, ruby-2.5.1-p57) [gem]">
@@ -2633,6 +2847,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/terraforming-0.16.0/contrib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/terraforming-0.16.0/templates" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/terraforming-0.16.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/terraforming-0.16.0/lib" />
@@ -2654,6 +2869,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
@@ -2673,6 +2889,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.3.0/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.3.0/sample" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.3.0/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.3.0/lib" />
@@ -2690,6 +2907,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/text-1.3.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/text-1.3.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/text-1.3.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/text-1.3.1/test" />
@@ -2703,6 +2921,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/thor-0.20.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/thor-0.20.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/thor-0.20.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/thor-0.20.3/lib" />
@@ -2716,6 +2935,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.1.2/test" />
@@ -2729,6 +2949,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.9.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.9.9/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.9.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/trollop-2.9.9/test" />
@@ -2743,6 +2964,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.5/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.5/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.5/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.5/test" />
@@ -2759,6 +2981,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.9/test" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.9/locales" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.9/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/vagrant-hostmanager-1.8.9/test" />
@@ -2774,6 +2997,7 @@
         <root url="file:///usr/local/lib/ruby/2.5.0/webrick/httpauth" />
         <root url="file:///usr/local/lib/ruby/2.5.0/webrick/httpservlet" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/2.5.0/webrick/httpauth" />
         <root url="file:///usr/local/lib/ruby/2.5.0/webrick/httpservlet" />
@@ -2788,6 +3012,7 @@
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
@@ -2805,6 +3030,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.18/templates" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.18/benchmarks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.18/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.18/lib" />
@@ -2830,6 +3056,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.8/templates" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.8/benchmarks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.8/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/yard-0.9.8/lib" />
@@ -2848,6 +3075,7 @@
     </library>
     <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>

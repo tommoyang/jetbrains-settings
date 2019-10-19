@@ -17,11 +17,25 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh.erb</mask>
-    <mask>*provider.php</mask>
-    <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>master*html</mask>
+    <mask>*.tpl</mask>
     <mask>*.html</mask>
+    <mask>*.sql</mask>
+    <mask>*.pp</mask>
+    <mask>*.php</mask>
+    <mask>*repository.php</mask>
+    <mask>*eyaml</mask>
+    <mask>*worker.php</mask>
+    <mask>*.yml</mask>
+    <mask>*.erb</mask>
+    <mask>*yml</mask>
+    <mask>*.eyaml</mask>
+    <mask>*html</mask>
+    <mask>*vue</mask>
+    <mask>*php</mask>
+    <mask>*.ts</mask>
+    <mask>*provider.php</mask>
+    <mask>*.vue</mask>
     <mask>*</mask>
   </component>
 </application>
