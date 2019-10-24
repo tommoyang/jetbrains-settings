@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot,script,style,body,html" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -95,7 +96,6 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
-    <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
@@ -155,6 +155,9 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -174,6 +177,7 @@
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
