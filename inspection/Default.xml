@@ -322,7 +322,7 @@
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="IfReturnReturnSimplificationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="IfReturnReturnSimplificationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IfStatementWithTooManyBranchesJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_limit" value="3" />
@@ -430,6 +430,7 @@
   <inspection_tool class="Json5StandardCompliance" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JsonDecodeUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JsonEncodingApiUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaCompliance" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JsonSchemaDeprecation" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JsonSchemaRefReference" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -461,6 +462,7 @@
   <inspection_tool class="MktimeUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MockingMethodsCorrectnessInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MsBuiltinInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MssqlBuiltinInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MultiAssignmentUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="MultipleReturnStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -495,7 +497,7 @@
   <inspection_tool class="NpmUsedModulesInstalled" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NullCoalescingOperatorCanBeUsedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NullPointerExceptionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ObGetCleanCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ObGetCleanCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectAllocationIgnoredJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OctalIntegerJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="OffsetOperationsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -531,11 +533,13 @@
   <inspection_tool class="PhpAssignmentReplaceableWithOperatorAssignmentInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="CODING_STANDARD" value="PSR2" />
+    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/workspace/asknicelydo/.php_cs" />
   </inspection_tool>
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CODING_STANDARD" value="PSR2" />
     <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/workspace/asknicelydo/phpcs.xml.dist" />
+    <option name="SHOW_SNIFF_NAMES" value="true" />
     <option name="EXTENSIONS" value="php" />
   </inspection_tool>
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -775,10 +779,12 @@
   <inspection_tool class="SqlCaseVsIfInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlConstantConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SqlCurrentSchemaInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlDeprecateTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlDerivedTableAliasInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlDialectInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlDropIndexedColumnInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SqlDuplicateColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlErrorHandlingInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SqlGotoInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlIdentifierInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -826,6 +832,7 @@
   <inspection_tool class="SummerTimeUnsafeTimeManipulationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SuspiciousAssignmentsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SuspiciousBinaryOperationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="SuspiciousFunctionCallsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SuspiciousLoopInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SuspiciousReturnInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SuspiciousSemicolonInspection" enabled="true" level="ERROR" enabled_by_default="true" />
