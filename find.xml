@@ -21,7 +21,6 @@
     <mask>*.tpl</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
-    <mask>*.pp</mask>
     <mask>*.php</mask>
     <mask>*repository.php</mask>
     <mask>*eyaml</mask>
@@ -36,6 +35,7 @@
     <mask>*.ts</mask>
     <mask>*provider.php</mask>
     <mask>*.vue</mask>
+    <mask>*.pp</mask>
     <mask>*</mask>
   </component>
 </application>
