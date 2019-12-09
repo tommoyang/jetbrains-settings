@@ -8,6 +8,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="rds-production" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".time()." type="PLAIN_TEXT" />
       <mapping pattern="php obj" type="PLAIN_TEXT" />
