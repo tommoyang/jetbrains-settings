@@ -7,8 +7,9 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="Bitstream Vera Sans Mono" />
+    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
