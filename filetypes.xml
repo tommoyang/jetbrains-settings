@@ -18,12 +18,11 @@
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="html" type="Smarty" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping ext="context" type="XML" />
-      <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <mapping ext="eyaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
