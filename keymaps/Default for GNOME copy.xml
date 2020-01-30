@@ -18,17 +18,6 @@
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-  </action>
-  <action id="Git.Menu">
-    <keyboard-shortcut first-keystroke="ctrl meta g" />
-  </action>
-  <action id="GotoTypeDeclaration">
-    <mouse-shortcut keystroke="shift control button1" />
-  </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
