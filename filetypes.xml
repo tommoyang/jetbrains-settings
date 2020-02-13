@@ -16,9 +16,9 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="_performance" type="Shell Script" />
       <mapping pattern="*.vue.html" type="Vue.js" />
       <mapping pattern="*.xml.dist" type="XML" />
