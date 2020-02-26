@@ -12,6 +12,7 @@
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
       <mapping pattern="php obj" type="PLAIN_TEXT" />
       <mapping pattern="_config" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
