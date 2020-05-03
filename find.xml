@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*provider.php" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -30,7 +30,6 @@
     <mask>*html</mask>
     <mask>*vue</mask>
     <mask>*.ts</mask>
-    <mask>*provider.php</mask>
     <mask>*.vue</mask>
     <mask>*pp</mask>
     <mask>*.php</mask>
@@ -38,5 +37,6 @@
     <mask>*Provider.php</mask>
     <mask>*php</mask>
     <mask>*</mask>
+    <mask>*provider.php</mask>
   </component>
 </application>
