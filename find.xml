@@ -30,13 +30,13 @@
     <mask>*html</mask>
     <mask>*vue</mask>
     <mask>*.ts</mask>
-    <mask>*provider.php</mask>
     <mask>*.vue</mask>
     <mask>*pp</mask>
     <mask>*.php</mask>
     <mask>*.pp</mask>
     <mask>*Provider.php</mask>
     <mask>*php</mask>
+    <mask>*provider.php</mask>
     <mask>*</mask>
   </component>
 </application>
