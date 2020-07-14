@@ -19,12 +19,10 @@
     <mask>master*html</mask>
     <mask>*.tpl</mask>
     <mask>*.html</mask>
-    <mask>*.sql</mask>
     <mask>*repository.php</mask>
     <mask>*eyaml</mask>
     <mask>*worker.php</mask>
     <mask>*.yml</mask>
-    <mask>*.erb</mask>
     <mask>*yml</mask>
     <mask>*.eyaml</mask>
     <mask>*html</mask>
@@ -37,6 +35,8 @@
     <mask>*Provider.php</mask>
     <mask>*php</mask>
     <mask>*provider.php</mask>
+    <mask>*.sql</mask>
+    <mask>*.erb</mask>
     <mask>*</mask>
   </component>
 </application>
