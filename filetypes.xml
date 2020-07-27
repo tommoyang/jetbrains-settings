@@ -24,6 +24,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="_performance" type="Shell Script" />
+      <mapping pattern="nginxmap" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping ext="context" type="XML" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
