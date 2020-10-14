@@ -13,6 +13,7 @@
       <mapping pattern="rds-production" type="PLAIN_TEXT" />
       <mapping pattern="portopen" type="PLAIN_TEXT" />
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
