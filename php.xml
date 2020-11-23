@@ -4,9 +4,4 @@
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="0edcd793-19df-4699-b89c-603d1f179142" name="PHP 7.1" home="C:/Program Files/php/php.exe" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
 </application>

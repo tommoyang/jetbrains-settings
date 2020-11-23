@@ -8,8 +8,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -30,13 +28,15 @@
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*pp</mask>
-    <mask>*.php</mask>
     <mask>*.pp</mask>
     <mask>*Provider.php</mask>
     <mask>*php</mask>
-    <mask>*provider.php</mask>
     <mask>*.sql</mask>
     <mask>*.erb</mask>
+    <mask>*controller.php</mask>
+    <mask>*command*.php</mask>
+    <mask>*provider.php</mask>
+    <mask>*.php</mask>
     <mask>*</mask>
   </component>
 </application>
