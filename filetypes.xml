@@ -10,6 +10,7 @@
       <mapping pattern="_config" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".time()." type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="rds-production" type="PLAIN_TEXT" />
       <mapping pattern="portopen" type="PLAIN_TEXT" />
       <mapping pattern="user/role/view.html" type="PLAIN_TEXT" />
