@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.sh.erb</mask>
+    <mask>master*html</mask>
+    <mask>*.tpl</mask>
+    <mask>*.html</mask>
+    <mask>*repository.php</mask>
+    <mask>*eyaml</mask>
+    <mask>*worker.php</mask>
+    <mask>*.yml</mask>
+    <mask>*yml</mask>
+    <mask>*.eyaml</mask>
+    <mask>*html</mask>
+    <mask>*vue</mask>
+    <mask>*.ts</mask>
+    <mask>*.vue</mask>
+    <mask>*pp</mask>
+    <mask>*.pp</mask>
+    <mask>*Provider.php</mask>
+    <mask>*php</mask>
+    <mask>*.sql</mask>
+    <mask>*.erb</mask>
+    <mask>*controller.php</mask>
+    <mask>*command*.php</mask>
+    <mask>*provider.php</mask>
+    <mask>*.php</mask>
+    <mask>*</mask>
+  </component>
+</application>

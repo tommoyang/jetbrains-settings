@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="phpcbf" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/workspace/asknicelydo/vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="php-cs-fixer" description="PHP CS Fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/workspace/asknicelydo/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="--allow-risky=yes --rules={&quot;@PSR2&quot;:true,&quot;@Symfony&quot;:true,&quot;@PhpCsFixer&quot;:true,&quot;@PHP71Migration&quot;:true,&quot;yoda_style&quot;:false,&quot;array_syntax&quot;:{&quot;syntax&quot;:&quot;short&quot;},&quot;concat_space&quot;:{&quot;spacing&quot;:&quot;one&quot;}} --diff fix $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

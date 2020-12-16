@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="drop" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
+    <exec>
+      <option name="COMMAND" value="/vagrant/asknicely/tests/sql-fixtures/scripts/drop" />
+      <option name="PARAMETERS" value="DROP_ALL=1 DROP_CONFIRM=1" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="load" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
+    <exec>
+      <option name="COMMAND" value="/vagrant/asknicely/tests/sql-fixtures/scripts/load" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="alice" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:/Users/tommo/workspace">
+    <exec>
+      <option name="COMMAND" value="asknicely" />
+      <option name="PARAMETERS" value="alice:load-fixture -f default -D test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
