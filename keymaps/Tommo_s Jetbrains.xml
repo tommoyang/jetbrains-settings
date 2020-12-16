@@ -1,0 +1,12 @@
+<keymap version="1" name="Tommo's Jetbrains" parent="Mac OS X">
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
+  <action id="GotoTest" />
+  <action id="PreviousWindow" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="ServiceView.ShowServices" />
+</keymap>
