@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
@@ -7,8 +8,6 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -34,5 +33,8 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
