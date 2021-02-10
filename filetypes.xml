@@ -21,6 +21,8 @@
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
+      <mapping ext="accesskey" type="PLAIN_TEXT" />
+      <mapping ext="accesssecret" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="Shell Script" />
