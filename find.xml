@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -36,7 +36,7 @@
     <mask>*controller.php</mask>
     <mask>*command*.php</mask>
     <mask>*provider.php</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
