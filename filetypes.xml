@@ -21,6 +21,7 @@
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
+      <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="accesskey" type="PLAIN_TEXT" />
