@@ -32,6 +32,7 @@
       <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="_performance" type="Shell Script" />
       <mapping pattern="nginxmap" type="Shell Script" />
+      <mapping ext="html" type="Smarty" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping ext="context" type="XML" />
       <mapping ext="eyaml" type="YAML" />
