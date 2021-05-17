@@ -33,6 +33,7 @@
       <mapping pattern="_performance" type="Shell Script" />
       <mapping pattern="nginxmap" type="Shell Script" />
       <mapping ext="html" type="Smarty" />
+      <mapping pattern="*.vue.html" type="Vue.js" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping ext="context" type="XML" />
       <mapping ext="eyaml" type="YAML" />
@@ -47,7 +48,6 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
-      <mapping pattern="*.vue.html" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
